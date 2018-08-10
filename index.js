@@ -17,3 +17,9 @@ funtion Ferret (name, age, foodRequirements) {
   this.age = age
   this.foodRequirements = foodRequirements
 }
+
+funtion Ferret (name, age, foodRequirements) {
+  this.name = name
+  this.age = age
+  this.foodRequirements = foodRequirements
+}
