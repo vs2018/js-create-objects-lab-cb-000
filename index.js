@@ -12,7 +12,8 @@ funtion Cat (name, breed, age) {
   this.age = age
 }
 
-funtion Ferret (name, breed, age) {
+funtion Ferret (name, age, foodRequirements) {
   this.name = name
   this.age = age
+  this.foodRequirements = foodRequirements
 }
