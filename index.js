@@ -23,7 +23,7 @@ funtion Bird (name, breed) {
   this.breed = breed
 }
 
-funtion Ferret (name, age, foodRequirements) {
+funtion Fish (name, age, foodRequirements) {
   this.name = name
   this.age = age
   this.foodRequirements = foodRequirements
