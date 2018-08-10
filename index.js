@@ -20,5 +20,5 @@ funtion Ferret (name, age, foodRequirements) {
 
 funtion Bird (name, breed) {
   this.name = name
-  this.breed = age
+  this.breed = breed
 }
