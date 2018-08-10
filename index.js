@@ -14,6 +14,5 @@ funtion Cat (name, breed, age) {
 
 funtion Ferret (name, breed, age) {
   this.name = name
-  this.breed = breed
   this.age = age
 }
