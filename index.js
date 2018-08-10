@@ -26,5 +26,5 @@ funtion Bird (name, breed) {
 funtion Fish (name, species, waterConditions) {
   this.name = name
   this.species = species
-  this.foodRequirements = foodRequirements
+  this.waterConditions = waterConditions
 }
